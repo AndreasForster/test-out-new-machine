@@ -1,0 +1,26 @@
+{
+  "name": "test-out-new-machine",
+  "version": "1.0.0",
+  "description": "Test out new machine",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreasForster/test-out-new-machine.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreasForster/test-out-new-machine/issues"
+  },
+  "homepage": "https://github.com/AndreasForster/test-out-new-machine#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
